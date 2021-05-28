@@ -116,12 +116,6 @@ On the next page, Take a note of the **Public IP Address** and _connect_ using t
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wd9853dwfnc7hldoy7n9.png)
 
-***
-
-![photo-1576267423429-569309b31e84](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q2m1mtoonxwf6csjd53l.jpg)
-
-***
-
 ### Install CodeDeploy Agent on EC2 Instance <a name="install-codedeploy-agent"/>
 > TO Deploy the git repo by using CodeDeploy Service, **codeDeploy-agent** must install in the EC2 instance.
 
