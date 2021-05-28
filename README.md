@@ -4,8 +4,8 @@
 
 ## Prerequisite
 ***
-* Create a [GitHub](https://github.com) account.
-* Create [AWS](https://console.aws.amazon.com/console/home) Account.
+* [GitHub](https://github.com) account.
+* [AWS](https://console.aws.amazon.com/console/home) Account.
 
 ## Table Of Contents
 ***
