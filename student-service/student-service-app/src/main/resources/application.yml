@@ -1,0 +1,13 @@
+server:
+    port: 8080
+spring:
+    data:
+        mongodb:
+            host: localhost
+            username: admin
+            password: password
+            port: 27017
+            database: studentDB
+            authentication-database: admin
+    application:
+        name: student
